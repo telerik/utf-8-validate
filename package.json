@@ -22,7 +22,8 @@
   "homepage": "https://github.com/websockets/utf-8-validate",
   "dependencies": {
     "bindings": "1.2.x",
-    "nan": "1.8.x",
+    "nan": "^2.0.5",
     "prebuilt": "https://github.com/tailsu/node-prebuilt/tarball/master"
+>>>>>>> Update to nan 2.x
   }
 }
