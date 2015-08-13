@@ -4,7 +4,7 @@
   "description": "Validate UTF-8 for Web",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo \"Only testing builds, test have to be extraced from `ws`\" && exit 0",
     "install": "node ./build.js"
   },
   "repository": {
@@ -24,6 +24,5 @@
     "bindings": "1.2.x",
     "nan": "^2.0.5",
     "prebuilt": "https://github.com/tailsu/node-prebuilt/tarball/master"
->>>>>>> Update to nan 2.x
   }
 }
